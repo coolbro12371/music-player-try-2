@@ -18,34 +18,40 @@ let trackIndex= 0;
 
 const songs=[
     {
-        artistName: "Ayra-Starr",
-        songName:"Rush",
-        img:"images/Ayra-Starr-Rush.webp",
-        music:"musics/Rush.mp3"
+        artistName: "Destroy Lonely",
+        songName:"If Looks Could Kill",
+        img:"images/Destroy_Lonely_-_If_Looks_Could_Kill.jpg",
+        music:"musics/Destroy_Lonely_-_If_Looks_Could_Kill.mp3"
     },
     {
-        artistName: "Fireboy DML",
-        songName:"Sofri",
-        img:"images/Fireboy-DML-EP.webp",
-        music:"musics/Sofri.mp3"
+        artistName: "Die To Live",
+        songName:"Juice WRLD",
+        img:"images/die to live.jpg",
+        music:"musics/die_to_live_mp3_72332.mp3"
     },
     {
-        artistName: "Ruger",
-        songName:"Girlfriend",
-        img:"images/Ruger-EP.webp",
-        music:"musics/Girlfriend.mp3"
+        artistName: "Juice WRLD",
+        songName:"Conversations",
+        img:"images/conversations juice wrld.jpg",
+        music:"musics/juice_wrld_conversations_official_audio_mp3_72417.mp3"
     },
     {
-        artistName: "Zinoleesky",
-        songName:"Loving-You",
-        img:"images/Zinoleesky-Loving-You-Artwork.jpg",
-        music:"musics/Loving-You.mp3"
+        artistName: "Juice WRLD",
+        songName:"Legends",
+        img:"images/Juice_Wrld_-_Legends.jpg",
+        music:"musics/juice_wrld_legends_official_audio_mp3_72260.mp3"
     },
     {
-        artistName: "Zinoleesky",
-        songName:"Rocking",
-        img:"images/Zinoleesky-Rocking-Artwork.jpg",
-        music:"musics/Rocking.mp3"
+        artistName: "Juice WRLD",
+        songName:"Autograph",
+        img:"images/autograph.jpg",
+        music:"musics/juice_wrld_autograph_on_my_line_official_audio_mp3_72049.mp3"
+    },
+    {
+        artistName: "Juice WRLD",
+        songName:"moonlight",
+        img:"images/moonlight.jpg",
+        music:"musics/juice_wrld_moonlight_official_audio_mp3_72219.mp3"
     },
 ];
 
