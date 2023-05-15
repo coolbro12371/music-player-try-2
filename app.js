@@ -96,10 +96,22 @@ const songs=[
         music:"musics/lil_uzi_vert_erase_your_social_produced_by_don_cannon_+_lyle_leduff_mp3_73798.mp3"
     },
     {
-        artistName: "meek mills",
-        songName:"blue notes",
-        img:"images/blue notes.jpg",
-        music:"musics/meek_mill_blue_notes_official_music_video_mp3_73779.mp3"
+        artistName: "Polo G",
+        songName:"Flex ft. Juice WRLD",
+        img:"images/FLEX JUICE WRLD.jpg",
+        music:"musics/polo_g_flex_official_audio_ft._juice_wrld_mp3_78125.mp3"
+    },
+    {
+        artistName: "Playboi Carti",
+        songName:"Flex",
+        img:"images/FLEX PBC.jpg",
+        music:"musics/playboi_carti_flex_audio_ft._leven_kali_mp3_78010.mp3"
+    },
+    {
+        artistName: "Kendrick Lamar",
+        songName:"Pray For Me",
+        img:"images/pray for me.jpg",
+        music:"musics/the_weeknd_kendrick_lamar_pray_for_me_lyric_video_mp3_77020.mp3"
     },
 ];
 
