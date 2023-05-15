@@ -59,6 +59,48 @@ const songs=[
         img:"images/shmerklies.jpg",
         music:"musics/shmerk_lies_official_music_video_mp3_73185.mp3"
     },
+    {
+        artistName: "Tory Lanez",
+        songName:"She Make It Clap Freestyle",
+        img:"images/she make it clap free style.jpg",
+        music:"musics/tory_lanez_she_make_it_clap_freestyle_lyrics_mp3_74166.mp3"
+    },
+    {
+        artistName: "jaybexo",
+        songName:"telly man",
+        img:"images/telly man.jpg",
+        music:"musics/telly_man_mp3_74052.mp3"
+    },
+    {
+        artistName: "Drake",
+        songName:"Do Not Disturb",
+        img:"images/do not disturb.jpg",
+        music:"musics/drake_do_not_disturb_mp3_73746.mp3"
+    },
+    {
+        artistName: "Juice WRLD",
+        songName:"Lean Wit Me",
+        img:"images/lean wit me.jpg",
+        music:"musics/juice_wrld_lean_wit_me_official_music_video_mp3_74241.mp3"
+    },
+    {
+        artistName: "Juice WRLD",
+        songName:"In My Head",
+        img:"images/in my head jw.jpg",
+        music:"musics/juice_wrld_in_my_head_official_music_video_mp3_74193.mp3"
+    },
+    {
+        artistName: "Lil Uzi Vert",
+        songName:"Erase Your Social",
+        img:"images/erase your social.jpg",
+        music:"musics/lil_uzi_vert_erase_your_social_produced_by_don_cannon_+_lyle_leduff_mp3_73798.mp3"
+    },
+    {
+        artistName: "meek mills",
+        songName:"blue notes",
+        img:"images/blue notes.jpg",
+        music:"musics/meek_mill_blue_notes_official_music_video_mp3_73779.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
