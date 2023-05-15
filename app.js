@@ -53,6 +53,12 @@ const songs=[
         img:"images/moonlight.jpg",
         music:"musics/juice_wrld_moonlight_official_audio_mp3_72219.mp3"
     },
+    {
+        artistName: "Shmerk",
+        songName:"Lies",
+        img:"images/shmerklies.jpg",
+        music:"musics/shmerk_lies_official_music_video_mp3_73185.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
