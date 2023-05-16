@@ -131,6 +131,12 @@ const songs=[
         img:"images/drip to hard.jpg",
         music:"musics/lil_baby_gunna_drip_too_hard_mp3_62573.mp3"
     },
+    {
+        artistName: "Juice WRLD",
+        songName:"Victorious - Unrealeased",
+        img:"images/victorious.jpg",
+        music:"musics/juice_wrld_victorious_unreleased_mp3_74249.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
