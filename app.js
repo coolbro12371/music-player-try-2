@@ -119,6 +119,12 @@ const songs=[
         img:"images/Drip Or Drown1.jpg",
         music:"musics/gunna_drip_or_drown_official_video_mp3_77694.mp3"
     },
+    {
+        artistName: "Travis Scott",
+        songName:"YOSEMITE",
+        img:"images/YOSEMITE.jpg",
+        music:"musics/travis_scott_yosemite_audio_mp3_49237.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
