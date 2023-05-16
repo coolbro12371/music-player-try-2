@@ -140,7 +140,7 @@ const songs=[
     {
         artistName: "Lil Yachty",
         songName:"Yacht Club",
-        img:"images/yacht club.mp3",
+        img:"images/yacht club.jpg",
         music:"musics/lil_yachty_yacht_club_audio_ft._juice_wrld_mp3_74758.mp3"
     },
 ];
