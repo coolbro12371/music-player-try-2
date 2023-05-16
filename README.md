@@ -1,9 +1,13 @@
 # music-player-app
+# hello this is music player offline
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+About to add song names^ 
+                        
 
-
-### song on the app
-- Rush by Ayra Starr
-- Sofri by Fireboy DML
-- Girlfriend by Ruger
-- Loving you by Zinoleesky
-- Rocking by Zinoleesky
