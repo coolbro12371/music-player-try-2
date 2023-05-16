@@ -137,6 +137,12 @@ const songs=[
         img:"images/victorious.jpg",
         music:"musics/juice_wrld_victorious_unreleased_mp3_74249.mp3"
     },
+    {
+        artistName: "Lil Yachty",
+        songName:"Yacht Club",
+        img:"images/yacht club.mp3",
+        music:"musics/lil_yachty_yacht_club_audio_ft._juice_wrld_mp3_74758.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
