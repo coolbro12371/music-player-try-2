@@ -125,6 +125,12 @@ const songs=[
         img:"images/YOSEMITE.jpg",
         music:"musics/travis_scott_yosemite_audio_mp3_49237.mp3"
     },
+    {
+        artistName: "Lil Baby",
+        songName:"Drip Too Hard ft. Gunna",
+        img:"images/drip to hard.jpg",
+        music:"musics/lil_baby_gunna_drip_too_hard_mp3_62573.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
