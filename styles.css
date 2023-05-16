@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("matrix.gif");
+    background-color: rgb(0,0,0);
     color: white;
 }
 @media (max-width:450px) {
