@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(0, 0, 0);
+    background-image: url("matrix.gif");
     color: white;
 }
 @media (max-width:450px) {
@@ -29,13 +29,7 @@ body{
     text-align: center;
 }
 #container::before{
-   background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
-    animation: a 2s linear infinite;
-}
-
-@keyframes a {
-  to {background-position:0 -200%}
-}
+    background: linear-gradient(to bottom, #00ff00 0%, #003300 100%);
     border-radius: 18px;
     content: " ";
     position: absolute;
@@ -45,8 +39,7 @@ body{
     top: 0;
     left: 0;
     z-index: 1;
-}
-
+    
 @media (max-width:1024px) {
     #container{
         width: 40%;
