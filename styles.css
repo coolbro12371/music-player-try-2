@@ -29,7 +29,7 @@ body{
     text-align: center;
 }
 #container::before{
-    background-color: rgba(0, 0, 0, 0.951);
+    background: linear-gradient(to top, #000000 0%, #00ff00 100%);
     border-radius: 18px;
     content: " ";
     position: absolute;
