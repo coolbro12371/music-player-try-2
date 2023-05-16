@@ -113,6 +113,12 @@ const songs=[
         img:"images/pray for me.jpg",
         music:"musics/the_weeknd_kendrick_lamar_pray_for_me_lyric_video_mp3_77020.mp3"
     },
+    {
+        artistName: "Gunna",
+        songName:"Drip Or Drown",
+        img:"images/Drip Or Drown1.jpg",
+        music:"musics/gunna_drip_or_drown_official_video_mp3_77694.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
