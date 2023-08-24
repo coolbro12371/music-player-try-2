@@ -143,6 +143,12 @@ const songs=[
         img:"images/yacht club.jpg",
         music:"musics/lil_yachty_yacht_club_audio_ft._juice_wrld_mp3_74758.mp3"
     },
+    {
+        artistName: "XXXTentacion",
+        songName:"RUN UP ON ME",
+        img:"images/run up on me.jpg",
+        music:"musics/xxxtentacion_run_up_on_me_lyrics_mp3_72411.mp3"
+    },
 ];
 
 loadTrack(trackIndex);
