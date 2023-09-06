@@ -40,6 +40,37 @@ body{
     left: 0;
     z-index: 1;
 }
+#search-bar{
+	width: auto;
+	margin-top: 14px;
+	margin-right: 2rem;
+	color: white;
+	font-size: 1.1rem;
+}
+
+#search-bar input[type="text"]{
+	height:1.7rem;
+	width:17vw;
+	margin-right: 3px;
+	padding: 1px;
+	background-color: #0c0252;
+	border:none;
+	color:var(--font_color_1);
+	font-family: helvetica, sans-serif;
+}
+::placeholder{
+	color: var(--font_color_1);  /*Editing the placeholder of the searchbar*/
+	font-family: helvetica, sans-serif;
+	padding: 5px;
+}
+#search-bar input:focus{
+	height:1.7rem;
+	width:17vw;
+	outline:none;
+}
+#search-bar i{
+	margin-top: 1px;
+}
 
 @media (max-width:1024px) {
     #container{
