@@ -16,7 +16,7 @@ body{
     color: white;
 }
 @media (max-width:450px) {
-    
+
 }
 #container{
     position: relative;
@@ -29,7 +29,7 @@ body{
     text-align: center;
 }
 #container::before{
-    background: linear-gradient(to top, #000000 0%, #00ff00 100%);
+    background-color: rgba(0, 0, 0, 0.951);
     border-radius: 18px;
     content: " ";
     position: absolute;
@@ -39,7 +39,8 @@ body{
     top: 0;
     left: 0;
     z-index: 1;
-	
+}
+
 @media (max-width:1024px) {
     #container{
         width: 40%;
